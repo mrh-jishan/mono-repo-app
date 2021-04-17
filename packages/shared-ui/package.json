@@ -2,6 +2,7 @@
   "name": "@lerna-monorepo/shared-ui",
   "description": "Lerna monorepo finisher",
   "version": "1.0.2",
+  "private": "false",
   "author": "Andrico Karoulla <karoulla.andrico@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.247",

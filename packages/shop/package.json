@@ -2,6 +2,7 @@
   "name": "@lerna-monorepo/shop",
   "description": "Lerna monorepo finisher",
   "version": "1.0.2",
+  "private": "false",
   "author": "Andrico Karoulla <karoulla.andrico@gmail.com>",
   "dependencies": {
     "@lerna-monorepo/shared-ui": "^1.0.1",
